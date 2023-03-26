@@ -14,11 +14,23 @@ QA Automation Lead / SDET / QA Automation Architect
 
 *   🌍  I'm based in Bali, but my working time zone is CET.
 *   ✉️  You can contact me at [holleaf@gmail.com](mailto:holleaf@gmail.com)
-*   🤝  I'm open to collaborating on web3 projects or open-source based projects which gonna help a lot of people### Skills 
+*   🤝  I'm open to collaborating on web3 projects or altruistic open-source based projects which gonna help a lot of people
+### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+ 
+ <a href="https://playwright.dev/docs/intro" target="_blank" rel="noreferrer"><img src="https://playwright.dev/img/playwright-logo.svg" width="36" height="36" alt="Playwright" /></a>
+  <a href="https://pptr.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png" width="36" height="36" alt="Puppeteer" /></a>
+  <a href="https://codecept.io/basics/#architecture" target="_blank" rel="noreferrer"><img src="https://codecept.io/logo.svg" width="36" height="36" alt="CodeceptJS" /></a>
+   <a href="https://cucumber.io/docs/installation/javascript/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cucumber/cucumber-js/main/docs/images/logo.svg" width="36" height="36" alt="Cucumber" /></a>
+   <a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://jestjs.io/img/favicon/favicon.ico" width="36" height="36" alt="Jest" /></a>
+    <a href="https://axios-http.com/docs/intro" target="_blank" rel="noreferrer"><img src="https://axios-http.com/assets/favicon.ico" width="36" height="36" alt="Axios" /></a>
+    <a href="https://k6.io/" target="_blank" rel="noreferrer"><img src="https://k6.io/favicon-32x32.png" width="36" height="36" alt="K6" /></a>
+     <a href="https://docs.qameta.io/allure/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" width="36" height="36" alt="Allure Framework" /></a>
+
+ <a href="https://docs.docker.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4" width="36" height="36" alt="Docker" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
