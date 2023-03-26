@@ -15,6 +15,11 @@ QA Automation Lead / SDET / QA Automation Architect
 *   🌍  I'm based in Bali, but my working time zone is CET.
 *   ✉️  You can contact me at [holleaf@gmail.com](mailto:holleaf@gmail.com)
 *   🤝  I'm open to collaborating on web3 projects or altruistic open-source based projects which gonna help a lot of people
+
+🛠️ Example of my approach: [API testing framework based on Axios and Jest on e2e mocked backend](https://github.com/EgorBodnar/rest-axios-codeceptjs-allure-docker-test-example)
+
+📜 Some of my merged open-source PR's: [1](https://github.com/codeceptjs/CodeceptJS/pull/3047), [2](https://github.com/PeterNgTr/codeceptjs-testrail/pull/37), [3](https://github.com/codeceptjs/CodeceptJS/pull/3573)
+
 ### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
