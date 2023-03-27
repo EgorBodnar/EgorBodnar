@@ -1,4 +1,4 @@
-Hi ! <a href="" target="_blank" rel="noreferrer"><img src="https://em-content.zobj.net/source/noto-emoji-animations/344/raising-hands_1f64c.gif" width="50" height="50" /></a> My name is Egor Bodnar
+Hi ! <a href="https://github.com/EgorBodnar" target="_blank" rel="noreferrer"><img src="https://em-content.zobj.net/source/noto-emoji-animations/344/raising-hands_1f64c.gif" width="50" height="50" /></a> My name is Egor Bodnar
 ===================================================================================================================================
 
 QA Automation Lead / SDET / QA Automation Architect
