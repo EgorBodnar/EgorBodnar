@@ -5,11 +5,9 @@ QA Automation Lead / SDET / QA Automation Architect
 ---------------------------------------------------
 
  I am an enthusiastic and versatile Automation QA professional with extended experience in testing web and mobile apps and good knowledge of ATQA technologies, frameworks, and modern CI/CD and ATQA processes with the skills of automating testing of back-end and front-end of high-loaded systems. 
- 
- First of all, I am a technical specialist, and then a team leader with good soft skills.
 
- I have a wealth of experience in both establishing and enhancing testing automation processes. My focus is often on creating new processes from the ground up for new projects, but I have also demonstrated my expertise in optimizing existing approaches and improving existing automation processes.
-
+ I excel at both establishing and enhancing automated testing processes, while emphasizing customization to each project's unique needs. Additionally, I possess strong leadership and soft skills, enabling me to mentor and grow effective automation testing teams.
+  
  My specialization is in constructing automated testing processes for new projects, with an emphasis on customizing the framework architecture to the specific needs of each project. This includes assembling a team, providing mentoring, establishing standard operating procedures within the team, defining a uniform code style, and implementing a code review process to enable the automation testing team to operate effectively and grow independently.
 
 *   🌍  I'm based in Bali, but my working time zone is CET.
