@@ -3,6 +3,7 @@ Hi ! <a href="https://github.com/EgorBodnar" target="_blank" rel="noreferrer"><i
 
 QA Automation Lead / SDET / QA Automation Architect
 ---------------------------------------------------
+📅 <em>If you want to chat with me, schedule a short 30-minute meeting [here](https://calendly.com/d/ysc-fmn-ydv/chat-with-egor-30-minute-meeting)</em>.
 
  I am an enthusiastic and versatile Automation QA professional with extended experience in testing web and mobile apps and good knowledge of ATQA technologies, frameworks, and modern CI/CD and ATQA processes with the skills of automating testing of back-end and front-end of high-loaded systems. 
 
