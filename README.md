@@ -41,7 +41,7 @@ QA Automation Lead / SDET / QA Automation Architect
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 </p>
                     
-### Socials
+### Connect with me
 
 <p align="left"> <a href="https://www.github.com/EgorBodnar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/egorbodnar/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
