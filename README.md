@@ -18,7 +18,7 @@ QA Automation Lead / SDET / QA Automation Architect
 
 🛠️ Example of my approach: [API testing framework based on Axios and Jest on e2e mocked backend](https://github.com/EgorBodnar/rest-axios-codeceptjs-allure-docker-test-example)
 
-📜 Some of my merged open-source PR's: [1](https://github.com/codeceptjs/CodeceptJS/pull/3047), [2](https://github.com/PeterNgTr/codeceptjs-testrail/pull/37), [3](https://github.com/codeceptjs/CodeceptJS/pull/3573)
+📜 Some of my merged open-source PR's: [1](https://github.com/codeceptjs/CodeceptJS/pull/3047), [2](https://github.com/PeterNgTr/codeceptjs-testrail/pull/37), [3](https://github.com/codeceptjs/CodeceptJS/pull/3665) ,[4](https://github.com/codeceptjs/CodeceptJS/pull/3573)
 
 ### Skills 
 <p align="left">
